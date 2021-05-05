@@ -1,0 +1,57 @@
+/* Arquivo de CSS */
+
+body {
+	background:#9932CC;
+	font-family: 'Krona One', sans-serif;
+	font-size:16px;
+}
+
+section {
+	width:95%;
+	margin:auto;
+}
+
+header {
+	width:100%;
+	background-color:#8B008B;
+	color:orange;
+	font-size:40px;
+	text-align:left;
+	height:100px;
+}
+
+aside {
+	width:30%;
+	height:610px;
+	float:left;
+	float:right;
+	color:white;
+	background:#DDA0DD;
+}
+
+main {
+	width:70%;
+	height:610px;
+	float:left;
+	background:white;
+}
+
+footer {
+	width:100%;
+	height:60px;
+	background-color:#FFC0CB;
+	clear:both;
+}
+
+.tabela,td {
+	border:1px solid white;
+	border-radius:2px;
+	width:90%;
+	padding:2%;
+}
+
+.top {
+	background:#F0E68C;
+	color:#FF1493;
+	font-weight:400;
+}

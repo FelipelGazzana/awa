@@ -1,0 +1,42 @@
+/* Arquivo de CSS */
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size:2em;
+	background:#5F9EA0;
+}
+
+section {
+	width:100%;
+	margin:auto;
+}
+
+aside {
+	width:30%;
+	height:650px;
+	background:#B8860B;
+	float:left;
+}
+
+nav {
+	width:70%;
+	height:50px;
+	background:#DAA520;
+	float:right;
+}
+
+main {
+	width:70%;
+	height:500px;
+	float:right;
+	background:white;
+}
+
+footer {
+	width:70%;
+	height:100px;
+	float:right;
+	background-color:black;
+	color:white;
+}
+	
